@@ -24,5 +24,6 @@ contains miscellaneous functions like file_retrieve and file_write which are req
 contains all the functions and subroutines to initialize array with an initial function, right now it contains functions for storing a gaussian in the case 1d, 2d and 3d matrices respectively
 
 
-*credits: Anna Binoy, Oommen P. Jose (both of them are 4th year Int. M.Sc.(2019-2024) Students of National Institute of Science Education and Research(NISER))*
+*CREDITS:  **Anna Binoy** ,  **Oommen P. Jose** (both of them are 4th year Int. M.Sc.(2019-2024) Students of National Institute of Science Education and Research(NISER)) under the guidance of  **Dr. Jaya Khanna**  (Assistant Professor,SEPS,NISER) *
+
 
